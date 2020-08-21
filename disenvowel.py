@@ -1,7 +1,7 @@
 vowels = 'aeiouAEIOU'
 
 
-def disemvowel(string: str) -> str:
+def disenvowel(string: str) -> str:
     if not string:
         return ''
 
