@@ -1,14 +1,7 @@
 vowels = 'aeiouAEIOU'
 
+
 def disemvowel(string: str) -> str:
-    """something
-
-    Args:
-        string (str): aaaa
-
-    Returns:
-        str: bbbb
-    """
     if not string:
         return ''
 

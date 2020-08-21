@@ -1,6 +1,7 @@
 import unittest
 from disenvowel import disemvowel
 
+
 class TestDisenvowel(unittest.TestCase):
     def test_some_tests(self):
         word_with_vowels = 'some word to disenvowel'
